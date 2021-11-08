@@ -1,0 +1,38 @@
+.main-content {
+   height: auto;
+}
+
+.nav-link {
+   color: #fff !important;
+}
+
+.logo {
+   width: 35px;
+   height: auto;
+   mix-blend-mode: lighten;
+}
+
+.logo-text {
+   font-size: 20px !important;
+   letter-spacing: 1.5px;
+}
+
+.task {
+   height: 250px;
+   width: 300px;
+}
+
+.task > iframe {
+   width: 100%;
+}
+
+.members-pic {
+   width: 100px;
+   height: 100px;
+   border-radius: 50%;
+}
+
+footer {
+   position: relative;
+   top: 100% !important;
+}
